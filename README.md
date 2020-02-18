@@ -11,7 +11,7 @@ Describe specific features of your extension including screenshots of your exten
 
 For example if there is an image subfolder under your extension project workspace:
 
-\!\[feature X\]\(images/vs_code_autosar.gif\)
+![links](https://raw.githubusercontent.com/ebroecker/vs_code_arxml/master/images/vs_code_autosar.gif)
 
 
 ## Requirements
